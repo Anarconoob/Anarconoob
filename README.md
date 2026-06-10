@@ -41,7 +41,7 @@ Meu Nome é Tiago Maynart Bianchi, tenho 36 anos e sou Santo André, São Paulo.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-
+/>
 <img 
     align="left"
     alt="C Language"
@@ -49,7 +49,6 @@ Meu Nome é Tiago Maynart Bianchi, tenho 36 anos e sou Santo André, São Paulo.
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -57,8 +56,7 @@ Meu Nome é Tiago Maynart Bianchi, tenho 36 anos e sou Santo André, São Paulo.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-          
+/>        
 <br/>
 <br/>
 
