@@ -75,18 +75,7 @@ Meu Nome é Tiago Maynart Bianchi, tenho 36 anos e sou Santo André, São Paulo.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anarconoob&theme=tokyonight&layout=compact&custom_title=Techs and Languages&langs_count=9" 
-  />
-
-</p>
-
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarconoob&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
